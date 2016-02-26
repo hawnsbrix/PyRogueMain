@@ -3,3 +3,5 @@ install:
   - cp -f libtcodpymock/libtcodpy.py .
 python:
   - "2.7"
+script:
+  - python roguetutv2.py
