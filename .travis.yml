@@ -1,6 +1,5 @@
 language: python
 install:
-  - pip install -U cffi
-  - pip install -r requirements.txt
+  - cp -f libtcodpymock/libtcodpy.py .
 python:
   - "2.7"
