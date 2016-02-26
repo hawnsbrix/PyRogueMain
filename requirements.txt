@@ -1,1 +1,1 @@
-libtcod
+libtcod-cffi
