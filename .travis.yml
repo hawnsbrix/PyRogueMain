@@ -4,4 +4,4 @@ install:
 python:
   - "2.7"
 script:
-  - python roguetutv2.py
+  - python -m py_compile roguetutv2.py
