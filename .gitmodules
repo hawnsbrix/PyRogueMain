@@ -1,0 +1,3 @@
+[submodule "libtcodpymock"]
+	path = libtcodpymock
+	url = https://github.com/partouf/libtcodpymock.git

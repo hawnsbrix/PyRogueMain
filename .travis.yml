@@ -1,0 +1,7 @@
+language: python
+install:
+  - cp -f libtcodpymock/libtcodpy.py .
+python:
+  - "2.7"
+script:
+  - python -m py_compile roguetutv2.py
